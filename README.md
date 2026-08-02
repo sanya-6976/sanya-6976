@@ -76,22 +76,6 @@ I'm a **B.Tech Data Science student** passionate about building **AI-powered app
 | **🔐 Cipher Cloud** | Multi-layer cryptography desktop app with SHA-256 hashing, QR encryption & secure file pipelines. | `Python` `Tkinter` `OpenCV` `Cryptography` | [Code](https://github.com/sanya-6976/CIPHER-CLOUD) • [Demo](https://portfolio-website-psi-orpin-23.vercel.app) |
 | **🤖 AI GitHub Code Reviewer** | Automated AI pull request code reviewer evaluating bugs, security risks & optimization feedback. | `Python` `OpenAI API` `GitHub Actions` | [Code](https://github.com/sanya-6976/AI-GITHUB-CODE-REVIEWER) • [Demo](https://portfolio-website-psi-orpin-23.vercel.app) |
 
----
-
-### 📈 GitHub Analytics & Stats
-
-<div align="center">
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanya-6976&show_icons=true&theme=dark&hide_border=true&title_color=FF1F3D&text_color=C9D1D9&icon_color=FF1F3D&bg_color=0D1117" alt="Sanya's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanya-6976&layout=compact&theme=dark&hide_border=true&title_color=FF1F3D&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanya-6976&theme=dark&hide_border=true&background=0D1117&ring=FF1F3D&fire=FF1F3D&currStreakLabel=FF1F3D" alt="GitHub Streak" width="97%" />
-</p>
-
-</div>
 
 ---
 
